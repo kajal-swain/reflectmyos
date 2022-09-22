@@ -1,5 +1,6 @@
 <?php include('common/header.php'); ?>
 <!-- ======= Hero Section ======= -->
+<!-- test -->
 <section id="hero" class="d-flex justify-content-center align-items-center">
     <div class="container position-relative" data-aos="zoom-in" data-aos-delay="100">
         <h1>Be Curious Be a lifelong Learner​</h1>
